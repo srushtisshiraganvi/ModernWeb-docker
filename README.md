@@ -26,12 +26,12 @@ It uses a simple `Dockerfile` and `docker-compose.yml` setup to serve the web pa
 
 ### Step 1: Install Docker and Docker Compose
 Run the following commands:
-```bash
-sudo apt update
+``bash
+` sudo apt update
 sudo apt install docker.io -y
-sudo apt install docker-compose -y `
+sudo apt install docker-compose -y ` 
 
-Step 2: Build and Run the Application
+### Step 2: Build and Run the Application
 `docker-compose up --build `
 
 Access the App
