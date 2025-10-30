@@ -31,8 +31,8 @@ sudo apt update
 sudo apt install docker.io -y
 sudo apt install docker-compose -y  
 
-### Step 2: Build and Run the Application
-`docker-compose up --build `
+Step 2: Build and Run the Application
+docker-compose up --build 
 
 Access the App
 Once the build completes, open your browser and visit:
