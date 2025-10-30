@@ -36,7 +36,7 @@ Step 2: Build and Run the Application
 
 Access the App
 Once the build completes, open your browser and visit:
-[http://localhost:8000](http://<your-public-IP>:8000
-)
+<your-public-IP>:8000
+
 
 You’ll see your static web page running inside a Docker container served by Nginx 🚀
