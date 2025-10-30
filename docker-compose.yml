@@ -1,0 +1,9 @@
+version : '3.3'
+
+services:
+  webapp:
+  build: .
+  image: srushtisshiragavi/static_web_page
+  container_name: webapp
+  ports:
+    - "8000:80"
